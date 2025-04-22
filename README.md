@@ -4,7 +4,7 @@ This project is a simple, animated countdown timer built with **HTML**, **CSS**,
 
 ## Demo
 
-You can view a live demo of the project [here](https://github.com/Vaishnavish05/Animated-timer).
+You can view a live demo of the project [here](https://vaishnavish05.github.io/Animated-timer/).
 
 ## Features
 

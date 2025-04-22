@@ -1,6 +1,6 @@
 # Animated Countdown
 
-This project is a simple, animated countdown timer built with **HTML**, **CSS**, and **JavaScript**. The timer counts down from 3 to 0, and once it hits 0, it displays a "GO" message. The project is interactive with a **Replay** button to restart the countdown.
+This project is a simple, animated countdown timer built with **HTML**, **CSS**, and **JavaScript**. The timer counts down from 3 to 1, and once it hits 1, it displays a "GO" message. The project is interactive with a **Replay** button to restart the countdown.
 
 ## Demo
 
